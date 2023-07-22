@@ -1,2 +1,12 @@
-[0720/182838.101:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0720/183033.095:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0722/164921.549:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[0722/164921.945:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0722/164921.945:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0722/164922.162:WARNING:storage_block-inl.h(146)] Failed data load.
+[0722/164922.162:WARNING:storage_block-inl.h(146)] Failed data load.
+[0722/164922.162:WARNING:storage_block-inl.h(146)] Failed data load.
+[0722/164922.162:WARNING:storage_block-inl.h(146)] Failed data load.
+[0722/164922.162:WARNING:storage_block-inl.h(146)] Failed data load.
+[0722/164922.162:ERROR:entry_impl.cc(998)] Failed to save user data
+[0722/164922.162:ERROR:entry_impl.cc(998)] Failed to save user data
+[0722/164924.153:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0722/165121.680:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
