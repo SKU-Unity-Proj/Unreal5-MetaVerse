@@ -1,8 +1,0 @@
-[0720/174527.703:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0720/174723.133:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0720/182659.385:WARNING:angle_platform_impl.cc(48)] Debug.cpp:180 (insertMessage): GL error: HIGH: Internal error: 0x00000505: Failed to allocate host memory
-[0720/182659.385:ERROR:shared_context_state.cc(790)] SharedContextState context lost via Skia OOM.
-[0720/182659.385:ERROR:gpu_service_impl.cc(1187)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
-[0720/182659.433:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
-[0720/182659.434:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
-[0720/182659.773:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 269 ms
